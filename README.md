@@ -8,7 +8,7 @@ Adjust the intensity and contrast of the sketch.
 Customize the level of detail and smoothness in the sketch.
 Save the converted sketches as new image files.
 Installation
-Clone the repository: git clone https://github.com/your-username/image-to-pencil-sketch.git
+Clone the repository: git clone (https://github.com/Preshit22/Image-to-Pensil-Sketch/blob/main/README.md)
 Navigate to the project directory: cd image-to-pencil-sketch
 Install the required dependencies: pip install -r requirements.txt
 Usage
